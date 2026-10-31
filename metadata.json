@@ -1,0 +1,6 @@
+{
+  "name": "Botanical Atelier - Tatuaje Botánico & Fino",
+  "description": "Atelier privado y exclusivo de tatuaje botánico y micro fine-line. Reserva guiada, valoración personalizada, elección de franja horaria y seguimiento íntimo de proyectos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
